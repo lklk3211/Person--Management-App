@@ -1,0 +1,16 @@
+.parent-div {
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.my-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.my-div {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
